@@ -1,26 +1,26 @@
-# Image gallery
+# Flights
 
-> A simple
+> Explore flight details in this simple project.
 
 ## Table of contents
 
-- [General info](#general-info)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Status](#status)
-- [Inspiration](#inspiration)
-- [Contact](#contact)
+- [Flights](#flights)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
 
 ## General info
 
-> The objective of the project is to practice separation of concern in
-> JavaScript.
+ Explore flight details in this compact project crafted with HTML, CSS, and JavaScript
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./assets/Capture%20d'écran%202024-04-23%20102045.png)
 
 ## Technologies
 
@@ -47,11 +47,7 @@ List of features ready and Todos for future development
 -
 -
 
-To-do list:
-
--
--
 
 ## Status
 
-Project is: _in progress_
+Project is: _done_

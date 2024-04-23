@@ -1,13 +1,20 @@
 # Backlog
 
-## Must-Haves
+## Must Haves
 
 > these are necessary for basic usability
 
-## Should-Haves
+- **Home Page**
+  - Users can easily navigate and view the flight details.
+    - [x] _The flight schedule is displayed prominently with a clear title_
+  
+  - Users have access to detailed flight listings
+    - [x] _The flights are presented in a list format, complete with details_
 
-> these will complete the user experience, but are not necessary
+## Should Haves
 
-## Could-Haves
+- [ ] When a user clicks on a flight, they can view its individual details
 
-> would be really cool ... if there's time
+## Could Haves
+
+- [ ] Provide more detailed flight information
